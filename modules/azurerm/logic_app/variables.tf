@@ -1,0 +1,13 @@
+variable name {}
+variable resource_group_name {}
+variable location {}
+variable app_service_plan_id {}
+variable logic_app_subnet_id {}
+variable app_settings {}
+variable private_endpoint_subnet_id {}
+variable logic_app_private_dns_zone_id {}
+variable blob_private_dns_zone_id {}
+variable file_private_dns_zone_id {}
+variable queue_private_dns_zone_id {}
+variable table_private_dns_zone_id {}
+variable log_analytics_workspace_id {}
